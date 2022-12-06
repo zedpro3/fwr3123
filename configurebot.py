@@ -1,10 +1,10 @@
 cfg = {
-	'token': 'токен',
-	'name': 'название бота',
+	'token': '5940585286:AAHMxMf8ae85aCU3hQM4eZfeZlNXXr6VpTs',
+	'name': 'Бот тест поддержка',
 	'dev_id': 0,
-	'teh_chat_id': -0,
-	'db_url': 'ссылка',
-	'db_name': 'dev',
+	'teh_chat_id': -785028532,
+	'db_url': 'mongodb+srv://root:6c4rKXz4myOs7GA5@cluster0.bzme8pc.mongodb.net/?retryWrites=true&w=majority',
+	'db_name': 'testbot',
 
 	'button_new_question': '✉ Задать вопрос',
 	'button_about_us': '📚 Про нас',
