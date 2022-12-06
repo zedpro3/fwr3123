@@ -1,5 +1,5 @@
 cfg = {
-	'token': '5887612668:AAENfd3jE52mppSsaqKkfLzUVHkuXgqs2ec',
+	'token': '5940585286:AAHMxMf8ae85aCU3hQM4eZfeZlNXXr6VpTs',
 	'name': 'Бот тест поддержка',
 	'dev_id': 5940585286,
 	'teh_chat_id': -785028532,
