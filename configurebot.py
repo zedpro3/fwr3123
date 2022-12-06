@@ -1,7 +1,7 @@
 cfg = {
 	'token': '5940585286:AAHMxMf8ae85aCU3hQM4eZfeZlNXXr6VpTs',
 	'name': 'Бот тест поддержка',
-	'dev_id': 243017218,
+	'dev_id': 630592073,
 	'teh_chat_id': -810847395,
 	'db_url': 'mongodb+srv://root:6c4rKXz4myOs7GA5@cluster0.bzme8pc.mongodb.net/?retryWrites=true&w=majority',
 	'db_name': 'testbot',
